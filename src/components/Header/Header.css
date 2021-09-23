@@ -1,0 +1,25 @@
+.header{
+    display: grid;
+    grid-template-columns: 2fr 3fr 3fr;
+   
+}
+.header-pic{
+    max-height: 13rem;
+}
+
+
+@media (max-width: 600px){
+    .header{
+        grid-template-columns: 1fr;
+    }
+    .header-pic{
+        height: 10rem;
+        width: 10rem;
+        border-radius: 5%;
+        margin-top: 1rem;
+    }
+    .header-pic-container{
+        justify-content: center;
+    }
+    
+}

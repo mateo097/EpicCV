@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+    .abilities-container{
+        flex-direction: column ;
+        
+    }
+}

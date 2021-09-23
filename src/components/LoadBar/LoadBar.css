@@ -1,0 +1,13 @@
+.load-bar-background{
+    height: 0.7rem;
+    background-color: var(--gray);
+}
+
+.load-bar-percent{
+    height: 0.7rem;
+    background-color: var(--secondary-color);
+}
+
+.load-bar-ability{
+    margin-bottom: -1rem !important;
+}

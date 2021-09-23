@@ -1,0 +1,11 @@
+.cv-body{
+    display: grid;
+    grid-template-columns: 8fr 4fr;
+}
+
+@media (max-width: 950px){
+    .cv-body{
+        grid-template-columns: 1fr;
+    }
+    
+}

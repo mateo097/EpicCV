@@ -1,0 +1,127 @@
+{
+    "CV": {
+        "PERSONAL_INFORMATION": {
+            "COMPLETE_NAME": "Ingrese una dirección",
+            "FIRSTNAME": "Buscar en GoogleMaps",
+            "SURNAME": "No se seleccionó ninguna imagen",
+            "LAST_NAME": [
+                "hamburguesa",
+                "pizza",
+                "lomito",
+                "ramen",
+                "pancho"
+            ]
+        },
+        "ABILITIES": [
+            {
+                "AREA": "FRONT END",
+                "LIST_OF_ABILITIES": [
+                    
+                    {
+                        "ABILITIE":"ReactJS",
+                        "KNOWLEDGE_PERCENT":65
+                    },
+                    {
+                        "ABILITIE":"Css",
+                        "KNOWLEDGE_PERCENT":85
+                    }
+                ]
+            },
+            {
+                "AREA": "BACK END",
+                "LIST_OF_ABILITIES": [
+                    {
+                        "ABILITIE":"NODE",
+                        "KNOWLEDGE_PERCENT":45
+                    },
+                    {
+                        "ABILITIE":"EXPRESS",
+                        "KNOWLEDGE_PERCENT":65
+                    }
+                ]
+            },
+            {
+                "AREA": "OTHERS",
+                "LIST_OF_ABILITIES": [
+                    {
+                        "ABILITIE":"SQL",
+                        "KNOWLEDGE_PERCENT":35
+                    },
+                    {
+                        "ABILITIE":"NoSQL",
+                        "KNOWLEDGE_PERCENT":45
+                    },
+                    {
+                        "ABILITIE":"Docker",
+                        "KNOWLEDGE_PERCENT":35
+                    },
+                    {
+                        "ABILITIE":"Firebase",
+                        "KNOWLEDGE_PERCENT":65
+                    },
+                    {
+                        "ABILITIE":"GIT",
+                        "KNOWLEDGE_PERCENT":75
+                    }
+                ]
+            }
+            
+
+        ],
+        "EXPERIENCE": [
+            {
+                "TITLE": "Frond End Developer",
+                "COMPANY":"Kummer Argentina",
+                "PERIOD": "JANUARY 2021 - ACTUALLY",
+                "DESCRIPTION": "",
+                "ACTIVITIES": ["Ux & Ui design", "Interface development"],
+                "TECNOLOGIES": ["ReactJS", "TypeScript", "NodeJS","Firebase","Figma"]
+            },
+            {
+                "TITLE": "Administrative employee",
+                "COMPANY":"Toldos Juan B Justo",
+                "PERIOD": "JANUARY 2018 - FEBRUARY 2019 / JULY 2019 - FEBRUARY 2021",
+                "DESCRIPTION": "",
+                "ACTIVITIES": ["Legal invoices loading", "Reports control", "Procedures management"],
+                "TECNOLOGIES": ["Advanced Excel"]
+            },
+            {
+                "TITLE": "Multimedia designer.",
+                "COMPANY":"Independent",
+                "PERIOD": "FEBRUARY 2020 - FEBRUARY 2021",
+                "DESCRIPTION": "",
+                "ACTIVITIES": ["Production of visual and audiovisual pieces for different private entities."],
+                "TECNOLOGIES": ["Adobe package"]
+            },
+            {
+                "TITLE": "Administrative",
+                "COMPANY":"Café Shop",
+                "PERIOD": "FEBRUARY 2019 - JULY 2019",
+                "DESCRIPTION": "",
+                "ACTIVITIES": ["Legal invoices loading", "Framework planning", "Stock control" ],
+                "TECNOLOGIES": ["Advanced Excel"]
+            }
+        ],
+        "FORMATION": [
+            {
+                "TITLE": "Computer Science",
+                "INSTITUTION": "FAMAF - UNC",
+                "PERIOD": "2020 - ACTUALLY",
+                "DESCRIPTION": "My goal is to train in algorithms and data structures.",
+                "TECNOLOGIES": ["Haskell", "C++"]
+            }
+            
+        ],
+        "OTHER_INFORMATION": [
+            {
+                "TITLE": "LANGUAGES",
+                "LIST": ["English : B2", "Spanish: Native"]
+            },
+            {
+                "TITLE": "INTERESTS",
+                "LIST": ["Music production", "Manga", "Literature", "Graphic design"]
+            }
+        ]
+    },
+    "FOOTER": ""
+}

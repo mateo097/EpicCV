@@ -1,0 +1,15 @@
+.timecard-container{
+    display: grid;
+    grid-template-columns: 1fr 11fr;
+}
+.timecard-timeline-circle{
+    height:0.5rem;
+    width: 0.5rem;
+   
+}
+
+.timecard-timeline-bar{
+    width: 0.2rem;
+    height: 100%;
+  
+}

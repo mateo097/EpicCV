@@ -1,0 +1,175 @@
+:root{
+    --primary-color: #332839;
+    --white: #F6FCFB;
+    --secondary-color: #6B5CCD;
+    --gray: #AEB4E2;
+}
+.a{
+    text-decoration: none;
+}
+.color{
+    background-color: var(--primary-color);
+    
+   
+}
+.color-white{
+    color:var(--white);
+}
+.color-primary{
+    color: var(--primary-color);
+}
+.color-gray{
+    color: var(--gray);
+}
+
+.back-primary{
+    background-color: var(--primary-color);
+}
+.back-secondary{
+    background-color: var(--secondary-color);
+}
+.back-gray{
+    background-color: var(--gray);
+}
+.back-white{
+    background-color: var(--white);
+}
+
+/*FONT*/
+.size-big{
+    font-size: 40px;
+}
+.size-little{
+    font-size: 24px;
+}
+.size-medium{
+    font-size: 36px;
+}
+.size-small{
+    font-size: 14px;
+}
+.weight-normal{
+    font-weight: 400;
+}
+.weight-light{
+    font-weight: 300;
+}
+
+
+/*DISPLAY*/
+.flex{
+    display: flex;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-start{
+    justify-content: flex-start;
+}
+.align-center{
+    align-items: center;
+}
+.align-start{
+    align-items: flex-start;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.column{
+    flex-direction: column;
+}
+.row{
+    flex-direction: row;
+}
+
+/*MARGIN*/
+.m1{
+    margin: 1rem;
+}
+.m-bot-1{
+    margin-bottom: 1rem;
+}
+.m-min{
+    margin: 0.3rem;
+}
+.m-body{
+    margin: 8rem;
+}
+.m-bot-small{
+    margin-bottom: 0 !important;
+}
+.m-r-min{
+    margin-right: 0.3rem;
+}
+/*PADDING*/
+.p1{
+    padding: 1rem;
+}
+.p-min{
+    padding: 0.3rem;
+}
+/*SHADOW*/
+.shadow{
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.30);
+}
+.shadow:hover{
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.60);
+}
+.shadow-big{
+    box-shadow: 4px 6px 10px rgba(0, 0, 0, 0.35);
+}
+/*BORDER*/
+.border-normal{
+    border-radius: 5px;
+}
+.border-normal-top{
+    border-radius: 5px 5px 0 0 ;
+}
+.border-circle{
+    border-radius: 50%;
+}
+.border-rounded{
+    border-radius: 10px;
+}
+
+
+.border-bold{
+    border: 0.2rem solid var(--secondary-color);
+}
+.border-bottom{
+    border-bottom: 0.05rem solid var(--gray);
+}
+/**/
+.square{
+    height: auto;
+    width: 200px;
+}
+.expand{
+    width: 100%;
+}
+
+/*QUERIES*/
+
+@media (max-width: 950px){
+    .m-body{
+        margin: 4rem !important;
+    }
+}
+
+
+@media (max-width: 600px){
+    .m-body{
+        margin: 0 !important;
+    }
+    
+}
+
+
+
+   

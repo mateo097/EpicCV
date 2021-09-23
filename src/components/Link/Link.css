@@ -1,0 +1,10 @@
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--gray);
+   
+}
+a:hover {
+    color: var(--white);
+    text-decoration: underline;
+}
