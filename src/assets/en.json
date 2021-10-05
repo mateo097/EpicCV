@@ -1,16 +1,10 @@
 {
     "CV": {
         "PERSONAL_INFORMATION": {
-            "COMPLETE_NAME": "Ingrese una dirección",
-            "FIRSTNAME": "Buscar en GoogleMaps",
-            "SURNAME": "No se seleccionó ninguna imagen",
-            "LAST_NAME": [
-                "hamburguesa",
-                "pizza",
-                "lomito",
-                "ramen",
-                "pancho"
-            ]
+            "COMPLETE_NAME": "",
+            "FIRSTNAME": "",
+            "SURNAME": "",
+            "LAST_NAME": ""
         },
         "ABILITIES": [
             {
@@ -70,8 +64,8 @@
         ],
         "EXPERIENCE": [
             {
-                "TITLE": "Frond End Developer",
-                "COMPANY":"Kummer Argentina",
+                "TITLE": "Front End Developer",
+                "COMPANY":"Kummer Argentina (www.kummer.com.ar)",
                 "PERIOD": "JANUARY 2021 - ACTUALLY",
                 "DESCRIPTION": "",
                 "ACTIVITIES": ["Ux & Ui design", "Interface development"],

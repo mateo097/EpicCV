@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <header className="header back-primary color-white ">
             <div className="header-pic-container flex ">
-                <img src="https://www.nicepng.com/png/detail/8-89767_left-4-dead-hunter-by-flametf-left-4.png" alt="anti_prejudice_pic " className="header-pic" />
+                <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHA6v_IdlA4gA/profile-displayphoto-shrink_800_800/0/1596715984790?e=1638403200&v=beta&t=9UtD7xWEv14149wfZzLWXbvjP992FYxT7ScQyGiRc6A" alt="anti_prejudice_pic " className="header-pic" />
             </div>
 
             <div className="flex column justify-around align-center">
