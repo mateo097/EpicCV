@@ -13,11 +13,15 @@
                     
                     {
                         "ABILITIE":"ReactJS",
-                        "KNOWLEDGE_PERCENT":65
+                        "KNOWLEDGE_PERCENT":70
+                    },
+                    {
+                        "ABILITIE":"Windows Forms",
+                        "KNOWLEDGE_PERCENT":60
                     },
                     {
                         "ABILITIE":"Css",
-                        "KNOWLEDGE_PERCENT":85
+                        "KNOWLEDGE_PERCENT":75
                     }
                 ]
             },
@@ -25,11 +29,11 @@
                 "AREA": "BACK END",
                 "LIST_OF_ABILITIES": [
                     {
-                        "ABILITIE":"NODE",
-                        "KNOWLEDGE_PERCENT":45
+                        "ABILITIE":"ASP.NET Core",
+                        "KNOWLEDGE_PERCENT":60
                     },
                     {
-                        "ABILITIE":"EXPRESS",
+                        "ABILITIE":"NodeJs",
                         "KNOWLEDGE_PERCENT":65
                     }
                 ]
@@ -37,13 +41,10 @@
             {
                 "AREA": "OTHERS",
                 "LIST_OF_ABILITIES": [
+                    
                     {
-                        "ABILITIE":"SQL",
-                        "KNOWLEDGE_PERCENT":35
-                    },
-                    {
-                        "ABILITIE":"NoSQL",
-                        "KNOWLEDGE_PERCENT":45
+                        "ABILITIE":"SQL & NoSQL",
+                        "KNOWLEDGE_PERCENT":60
                     },
                     {
                         "ABILITIE":"Docker",
@@ -55,7 +56,7 @@
                     },
                     {
                         "ABILITIE":"GIT",
-                        "KNOWLEDGE_PERCENT":75
+                        "KNOWLEDGE_PERCENT":70
                     }
                 ]
             }
@@ -65,10 +66,10 @@
         "EXPERIENCE": [
             {
                 "TITLE": "Front End Developer",
-                "COMPANY":"Kummer Argentina (www.kummer.com.ar)",
+                "COMPANY":"kummer.com.ar",
                 "PERIOD": "JANUARY 2021 - ACTUALLY",
                 "DESCRIPTION": "",
-                "ACTIVITIES": ["Ux & Ui design", "Interface development"],
+                "ACTIVITIES": ["Ux & Ui design", "Interface development", "Testing implementation"],
                 "TECNOLOGIES": ["ReactJS", "TypeScript", "NodeJS","Firebase","Figma"]
             },
             {
@@ -103,6 +104,13 @@
                 "PERIOD": "2020 - ACTUALLY",
                 "DESCRIPTION": "My goal is to train in algorithms and data structures.",
                 "TECNOLOGIES": ["Haskell", "C++"]
+            },
+            {
+                "TITLE": "Fullstack development",
+                "INSTITUTION":"Educación IT",
+                "PERIOD":"2019 - 2020",
+                "DESCRIPTION": "",
+                "TECNOLOGIES": ["PHP", "SQL", "JavaScript", "CSS"]
             }
             
         ],

@@ -12,14 +12,14 @@ const Header = () => {
 
             <div className="flex column justify-around align-center">
                 <div className="size-little">Mateo Andrés Busto</div>
-                <div className="">Jr Developer</div>
+                <div className="size-little">Jr Developer</div> 
                 <Link icon={<FaPhoneSquare />} href="#">351 7888991 - 351 7628382</Link>
                 <Link icon={<AiOutlineMail />} href="#">mateobusto97@gmail.com</Link>
-            </div>
-            <div className="flex column justify-evenly align-center">
-                <Link icon={<FaGithub />} iconStyle="white" href="https://github.com/mateo097">github.com/mateo097</Link>
-                <Link icon={<AiFillLinkedin />} iconStyle="white" href="https://www.linkedin.com/in/mateo-andr%C3%A9s-busto-a837341a0/">linkedin.com/in/mateo-andr...</Link>
-
+            </div> 
+            <div className="header-links">
+                <div></div>
+                <Link icon={<FaGithub />} iconStyle="white" target="_blank" href="https://github.com/mateo097">github.com/mateo097</Link>
+                <Link icon={<AiFillLinkedin />} iconStyle="white" target="_blank" href="https://www.linkedin.com/in/mateo-andr%C3%A9s-busto-a837341a0/">linkedin.com/in/mateo-andr...</Link>
             </div>
         </header>
     )

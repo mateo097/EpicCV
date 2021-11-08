@@ -7,6 +7,11 @@
     max-height: 13rem;
 }
 
+.header-links{
+    display: inherit;
+    grid-template-rows: 2fr 1fr 1fr;
+}
+
 
 @media (max-width: 600px){
     .header{
@@ -20,6 +25,12 @@
     }
     .header-pic-container{
         justify-content: center;
+    }
+    .header-links{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
     }
     
 }
